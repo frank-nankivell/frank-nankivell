@@ -1,9 +1,10 @@
-# @frank-nankivell
+#### @frank-nankivell
 
-## Software Engineer
+## Software Engineer ✨
 
 For more information:
-https://www.franknankivell.com
+https://www.franknankivell.com 🚀
+
 
 <!---
 frank-nankivell/frank-nankivell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
